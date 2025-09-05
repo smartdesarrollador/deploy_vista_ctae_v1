@@ -1,0 +1,10 @@
+{
+  "routes": [
+    "/",
+    "/auth",
+    "/auth/forgot-password",
+    "/auth/login",
+    "/auth/register",
+    "/auth/reset-password"
+  ]
+}
